@@ -1,0 +1,21 @@
+div {
+    font-family: verdana;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-weight: normal;
+}
+
+h3 {
+    color: red;
+    text-decoration: underline;
+    font-weight: normal;
+
+}
